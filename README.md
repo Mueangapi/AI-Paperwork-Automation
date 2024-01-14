@@ -40,7 +40,7 @@ As an economics graduated like me, it's well known that the whole economy is run
 
  Secondly they work with credit analyst, by passing them a loan proposal. which include objective of the loans, loans amount, balance sheet, etc. Now it's time for credit analyst who is spend most of the time analyze if they should approve a loans or not. Finally if the loans are approved they told operation team to help facility loans into customer's bank account.
 
- In summary I think RM spend most of the time with customers, The solution they needs might be monitoring <ins>dashboard<ins> or else helping they do the best at CRM (It could be a beer, wine or souvenirs😂). For the analyst they spend time with those document and analyze it then create a Credit Approval Document. They solution they need might be <web application or some process automation>.
+ In summary I think RM spend most of the time with customers, The solution they needs might be monitoring <u>dashboard<u> or else helping they do the best at CRM (It could be a beer, wine or souvenirs😂). For the analyst they spend time with those document and analyze it then create a <u>Credit Approval Document<u>. They solution they need might be <u>web application or some process automation<u>.
 
  Alright Let's see what we can do Next!
 
