@@ -30,5 +30,15 @@ I found something really cauth my eye👀 as a current worker at a bank, It's th
 As an economics graduated like me, it's well known that the whole economy is run by credit. and I think I could find the gap in this opportunity.📊
 
 ## 2nd Chapter Gathering infos and requirments.
+ Firstly I think it necessary to understand what is credit officers. and which role are also involved.
+
+ ![image](https://github.com/Mueangapi/AI-Automation/assets/104725034/102fd307-e44f-4f1c-bea8-6936279febb2)
+
+ After conclude some informations, It seems like when a customer(I'm mentioning corporate) need money, it could be long or short term debt. The first person to meet our customer is The Relationship Manager who is gathering customer data, ask them for involved docs, and help initiating loans proposal.
+
+ ![image](https://github.com/Mueangapi/AI-Automation/assets/104725034/656ab816-30e4-43d2-82c4-70687e83a892)
+
+ Secondly they work with credit analyst, by passing them loan proposal.  
+
 
 
