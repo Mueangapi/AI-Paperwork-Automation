@@ -10,7 +10,7 @@ They mentioned about what jobs and skills are in demand for the next 5 years, an
 
 It's interesting but I didn't have much time to read it. So.. let's find some solutions!
 
-## 1st Chapter I need an assistant.
+## 1st Chapter, I need an assistant.
 and here is what i found https://platform.openai.com/docs/assistants/how-it-works
 ![image](https://github.com/Mueangapi/I-m-gonna-disrupt-my-job-the-series-inspired-by-WEF-Future-of-jobs-doc./assets/104725034/32b13a94-19b6-435d-9b45-1ba4c530d047)
 ![image](https://github.com/Mueangapi/I-m-gonna-disrupt-my-job-the-series-inspired-by-WEF-Future-of-jobs-doc./assets/104725034/c21a7413-8378-41ba-aadf-5f8a91095790)
@@ -29,16 +29,22 @@ I found something really cauth my eye👀 as a current worker at a bank, It's th
 
 As an economics graduated like me, it's well known that the whole economy is run by credit. and I think I could find the gap in this opportunity.📊
 
-## 2nd Chapter Gathering infos and requirments.
+## 2nd Chapter, Gathering infos and requirments.
  Firstly I think it necessary to understand what is credit officers. and which role are also involved.
 
  ![image](https://github.com/Mueangapi/AI-Automation/assets/104725034/102fd307-e44f-4f1c-bea8-6936279febb2)
 
- After conclude some informations, It seems like when a customer(I'm mentioning corporate) need money, it could be long or short term debt. The first person to meet our customer is The Relationship Manager who is gathering customer data, ask them for involved docs, and help initiating loans proposal.
+ After conclude some informations, It seems like when a customer(I'm mentioning corporate) need money, it could be long or short term debt. The first person to meet our customer is The Relationship Manager(RM) who is gathering customer data, ask them for involved docs, and help initiating loans proposal.
 
  ![image](https://github.com/Mueangapi/AI-Automation/assets/104725034/656ab816-30e4-43d2-82c4-70687e83a892)
 
- Secondly they work with credit analyst, by passing them loan proposal.  
+ Secondly they work with credit analyst, by passing them a loan proposal. which include objective of the loans, loans amount, balance sheet, etc. Now it's time for credit analyst who is spend most of the time analyze if they should approve a loans or not. Finally if the loans are approved they told operation team to help facility loans into customer's bank account.
 
+ In summary I think RM spend most of the time with customers, The solution they needs might be monitoring <ins>dashboard<ins> or else helping they do the best at CRM (It could be a beer, wine or souvenirs😂). For the analyst they spend time with those document and analyze it then create a Credit Approval Document. They solution they need might be <web application or some process automation>.
+
+ Alright Let's see what we can do Next!
+
+ ## 3rd Chapter, Credit Approval Auto Generation Architecture.
+ 
 
 
