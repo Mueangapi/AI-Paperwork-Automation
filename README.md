@@ -46,5 +46,14 @@ As an economics graduated like me, it's well known that the whole economy is run
 
  ## 3rd Chapter, Credit Approval Auto Generation Architecture.
  
+Lets' see what component of Credit Approval document looks like. It's prohibit to provide the real one so..
+
+![image](https://github.com/Mueangapi/AI-Automation/assets/104725034/7cf9c3e5-6257-4d66-b9d4-c77fc18d2dd1)
+
+The document simply contains 
+1. Text (headers)
+2. Text (analysis of explanation)
+3. Table
+and then we're just put data from other sources into it. 
 
 
