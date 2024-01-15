@@ -56,4 +56,16 @@ The document simply contains
 3. Table
 and then we're just put data from other sources into it. 
 
+Now we need some framework or module to help doing it. I choose "python-docx" to help create word document, but we could only finish 1 and 3 part. The 2 part needs a brain to generate explanation of input we're gonna give( for example financial data, budget, and balance sheet). 
+![image](https://github.com/Mueangapi/AI-Automation/assets/104725034/6884a6eb-4b85-43ea-91e7-d6124524f006)
 
+Now let's design an architecture.
+![image](https://github.com/Mueangapi/AI-Automation/assets/104725034/0027b0c2-996c-4436-bfdf-8ddcfcd4267f)
+
+There are 2 main components that we need to know.
+1. python-docx responsible for create word docx(Arrange text and table)
+2. Lange Language Model (llm) responsible for generate human-like description of table or data.
+
+## 4rd Chapter Start Coding.
+
+ 
