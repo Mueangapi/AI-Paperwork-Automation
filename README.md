@@ -68,4 +68,4 @@ There are 2 main components that we need to know.
 
 ## 4rd Chapter Start Coding.
 
- 
+ Wait I'm on a Hackathon mission now🫶
