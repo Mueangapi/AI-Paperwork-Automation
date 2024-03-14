@@ -120,4 +120,5 @@ def main():
     data, cursor = RetriveData()
     df = ConvertDataToDataFrame(data,cursor)
     GenerateDocx(df)
+    Export(doc)
 

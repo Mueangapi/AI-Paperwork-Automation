@@ -66,6 +66,28 @@ There are 2 main components that we need to know.
 1. python-docx responsible for create word docx(Arrange text and table)
 2. Lange Language Model (llm) responsible for generate human-like description of table or data.
 
-## 4rd Chapter Start Coding.
+## 4rd Chapter Start Coding & Conclusion.
+There are 3 component to be coded according to our architecture 
+1. Database(You might see some request in ``` Docx.py ```)
+2. Document Generating (Docx.py)
+3. Open AI request (chatcompletion.py)
 
- Wait I'm on a Hackathon mission now🫶
+Let's see what final result looks. I just do Proof of concept, so the data is not real, but I just wanna say that it's possible to bring human-like description and other data from sources together without needing of workforce. 
+![image](https://github.com/Mueangapi/AI-Automation/assets/104725034/5086c8ec-b045-49b8-b65f-87c641ba2d8d)
+
+It's a good result here **python-docx** allow you to customize many things. and you could take a bit of time to make it more beautiful😂
+
+For now come back to our objectives.
+1. Could this project solve credit officer problem?
+   Yes, most of the time they spent, are with **same pattern of documents** just different customers. This project doesn't care about how much customer we have, because we could iterate all over it. more over the document quality would be better due to lack of human error.
+
+2. What does this project enable?
+   I think the most important thing is the ability to finish a bunch of work in short period of time, we doesn't need to scale team or people anymore. All we need just some computation resources. Another thing that's could benefit from this project is the uses of digital document, because we have document already in pipeline. It could be used in analytics or training/finetuning some AI.
+
+Many Thanks!🫶
+
+#AItransformation #AIAutomation 
+
+### Due to recent Hackathon I have a chance to show that operating cost from employee is really huge!
+![image](https://github.com/Mueangapi/AI-Paperwork-Automation/assets/104725034/4cbcd67a-a699-4c5d-8895-4e13e544467f)
+
