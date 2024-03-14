@@ -1,21 +1,11 @@
-import os
-from dotenv import load_dotenv
-from openai import OpenAI
+import os 
+from dotenv import load_dotenv 
+from openai import OpenAI 
 
-load_dotenv('api.env')
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-client = OpenAI(api_key=OPENAI_API_KEY)
 
 def chat_completion(prompt):
-    response = client.Completion.create(
-        engine="gpt-3.5-turbo",
-        prompt=prompt,
-        max_tokens=100,
-        temperature=0.7,
-        stop=None
-    )
-    return response.choices[0].text.strip()
-
-prompt = "test"
-response = chat_completion(prompt)
-print(response)
+    load_dotenv() 
+    openai_api_key = os.getenv("OPENAI_API_KEY") 
+    client = OpenAI(api_key=openai_api_key) 
+    response = client.completions.create(model="gpt-3.5-turbo-instruct", prompt=prompt)
+    return response.choices[0].text
