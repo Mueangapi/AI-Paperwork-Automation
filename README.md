@@ -88,6 +88,6 @@ Many Thanks!🫶
 
 #AItransformation #AIAutomation 
 
-### Due to recent Hackathon I have a chance to show that operating cost from employee is really huge!
+### Due to recent Hackathon, I have a chance to show that operating cost from employee is really huge!
 ![image](https://github.com/Mueangapi/AI-Paperwork-Automation/assets/104725034/4cbcd67a-a699-4c5d-8895-4e13e544467f)
-
+Over 39% to 46% of operating cost for leader banks in Thailand.
