@@ -91,3 +91,9 @@ Many Thanks!🫶
 ### Due to recent Hackathon, I have a chance to show that operating cost from employee is really huge!
 ![image](https://github.com/Mueangapi/AI-Paperwork-Automation/assets/104725034/4cbcd67a-a699-4c5d-8895-4e13e544467f)
 Over 39% to 46% of operating cost for leader banks in Thailand.
+![image](https://github.com/Mueangapi/AI-Paperwork-Automation/assets/104725034/1dbe55bf-3736-4861-aea9-ef6dbe792cf0)
+![image](https://github.com/Mueangapi/AI-Paperwork-Automation/assets/104725034/b6be8a47-0780-4898-9814-5b1f31634c71)
+![image](https://github.com/Mueangapi/AI-Paperwork-Automation/assets/104725034/5e666af8-5e3d-45d5-8da7-bf66954345a2)
+
+
+
