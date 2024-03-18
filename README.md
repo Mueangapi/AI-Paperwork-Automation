@@ -91,7 +91,7 @@ Many Thanks!🫶
 ### Due to recent Hackathon, I have updated some data for you.
 ![image](https://github.com/Mueangapi/AI-Paperwork-Automation/assets/104725034/4cbcd67a-a699-4c5d-8895-4e13e544467f)
 
-Over 39% to 46% of operating cost for leader banks in Thailand.
+Over 39% to 46% of operating cost for leader banks in Thailand came from General and administrative expenses(employee).
 Next I'll show you some infomation about profitability of each bank.
 ![image](https://github.com/Mueangapi/AI-Paperwork-Automation/assets/104725034/1dbe55bf-3736-4861-aea9-ef6dbe792cf0)
 ![image](https://github.com/Mueangapi/AI-Paperwork-Automation/assets/104725034/b6be8a47-0780-4898-9814-5b1f31634c71)
