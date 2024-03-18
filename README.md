@@ -97,7 +97,7 @@ Next I'll show you some infomation about profitability of each bank.
 ![image](https://github.com/Mueangapi/AI-Paperwork-Automation/assets/104725034/b6be8a47-0780-4898-9814-5b1f31634c71)
 ![image](https://github.com/Mueangapi/AI-Paperwork-Automation/assets/104725034/5e666af8-5e3d-45d5-8da7-bf66954345a2)
 
-Just take a bit of time, ask how they can manage this significant level of profitability. Don't wanna spoil you, but if we don't transform process into 
+Just take a bit of time, ask how ENBD can manage this significant level of profitability. Don't wanna spoil you, but if we don't transform process into 
 automation today, we've already lost competitive when an era of virtual bank comes.
 
 
